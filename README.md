@@ -24,11 +24,3 @@
 
 ---
 
-## 安装与使用
-
-请按照以下步骤安装所需依赖和运行代码：
-
-1. 克隆项目到本地：
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
